@@ -20,7 +20,7 @@ $spacing-unit:     50px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #d33682;
+$brand-color:      #73a3b3;
 
 $grey-color:       #3F3F3F;
 $grey-color-light: lighten($grey-color, 50%);
@@ -28,10 +28,10 @@ $grey-color-lighter: lighten($grey-color, 70%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    700px;
+$content-width:    800px;
 
 $on-palm:          500px;
-$on-laptop:        700px;
+$on-laptop:        800px;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
