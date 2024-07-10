@@ -314,7 +314,7 @@ scholar:
   last_name: [da Cunha]
   first_name: [Shashwati]
 
-  style: acs
+  style: apa
   locale: en
 
   source: /_bibliography/
