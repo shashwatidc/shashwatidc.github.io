@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: 
+description: GitHub repositories 
 nav: true
 nav_order: 4
 ---
@@ -11,7 +11,7 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-## GitHub Repositories
+## GitHub repositories
 
 {% if site.data.repositories.github_repos %}
 
