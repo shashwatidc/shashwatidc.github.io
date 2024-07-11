@@ -21,4 +21,3 @@ Access the complete website at [https://co2r-dashboard.streamlit.app/](https://c
   src="https://co2r-dashboard.streamlit.app/?embed=true"
   style="height: 450px; width: 100%;"></iframe>
   
-<hr>

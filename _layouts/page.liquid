@@ -2,10 +2,6 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-description">{{ page.description }}</p>
-  </header>
 
   <article>
     {{ content }}
@@ -24,6 +20,8 @@ layout: default
 
 </div>
 
+<hr>  
+    
 <!-- Social -->
 {% if page.social %}
   <div class="social">

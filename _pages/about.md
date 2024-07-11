@@ -25,8 +25,8 @@ My <a href="{{ '/publications/' | relative_url }}">research</a> focuses on
 - developing scaleup strategies by modeling electrolyzers within energy systems and integrated chemical processes
 - the intersection of energy infrastructure, the chemicals industry, and climate change
 
+<hr>
+
 Awarded the Chevron Graduate Energy Fellowship for outstanding innovation in energy systems and the Eastman Graduate Fellowship for research benefiting the chemical process industry. Interned at IBM Research in semiconductor process engineering and Atrimed Biotech in small molecule drug development. Developed neural networks to identify chemical reaction rate constants and unknown reaction mechanisms in the [Medford Lab](https://www.medford.chbe.gatech.edu/) at Georgia Tech. Yellow Jacket at heart. Interdisciplinary experience includes building equipment for evolutionary biologists and learning chemistry from electrical engineers (even if they claim it's physics). 
 
 Passionate about broadening engagement with research, from elementary schoolers through university presidents.
-
-<hr>

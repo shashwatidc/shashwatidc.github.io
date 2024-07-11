@@ -8,6 +8,8 @@ nav_order: 2
 social: true # includes social icons at the bottom of the page
 ---
 
+## Publications 
+
 <!-- _pages/publications.md -->
 
 {% if site.search_enabled %}
