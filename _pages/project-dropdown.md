@@ -10,5 +10,4 @@ children:
   - title: divider
   - title: The evolution of blinking
     permalink: https://bhamla.gatech.edu/project-blog/mudskipper-blink
-  - title: divider
 ---
