@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: code
+title: Code
 description: GitHub repositories
 nav: true
 nav_order: 4
