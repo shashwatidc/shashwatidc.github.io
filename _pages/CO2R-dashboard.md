@@ -4,6 +4,8 @@ title: CO₂R costing dashboard
 permalink: /CO2R-dashboard/
 subtitle: 
 nav: false
+social: true # includes social icons at the bottom of the page
+
 ---
 
 ## Interactive techno-economic assessment for CO<sub>2</sub>R
