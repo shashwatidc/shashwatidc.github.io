@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in the <a href='#'>Resasco Catalysis Lab</a> at The University of Texas at Austin. 
+subtitle: PhD Candidate in the <a href='https://www.resascolab.com/'>Resasco Catalysis Lab</a> at The University of Texas at Austin. 
 
 profile:
   align: right
