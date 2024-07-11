@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: GitHub repositories 
+permalink: /code/
+title: code
+description: GitHub repositories
 nav: true
 nav_order: 4
-
-## GitHub repositories
+---
 
 {% if site.data.repositories.github_repos %}
 
