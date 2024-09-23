@@ -19,6 +19,7 @@
   "research": [
     {
       "name": "Resasco Catalysis Lab",
+      "location": "Atlanta, GA",
       "position": "Graduate Research Assistant",
       "startDate": "2021/10",
       "endDate": "present",
@@ -26,6 +27,7 @@
     },
     {
       "name": "Medford Lab",
+      "location": "Atlanta, GA",
       "position": "Undergraduate Research Assistant",
       "url": "https://www.medford.chbe.gatech.edu/",
       "startDate": "2020/05",
@@ -33,12 +35,14 @@
     },
     {
       "name": "Shen and Kippelen Groups",
+      "location": "Atlanta, GA",
       "position": "Undergraduate Research Fellow, Semiconductor Research Corporation",
       "startDate": "2019/09",
       "endDate": "2021/05"
     },
     {
       "name": "Bhamla Lab",
+      "location": "Atlanta, GA",
       "position": "Undergraduate Research Assistant",
       "startDate": "2018/04",
       "endDate": "2019/05"
@@ -47,12 +51,14 @@
   "experience": [
     {
       "name": "IBM Research",
+      "location": "Albany, Ny",
       "position": "Unit Process Research Intern",
       "startDate": "2020/06",
       "endDate": "2020/08"
     },
     {
       "name": "Atrimed Biotech",
+      "location": "Bengaluru, India",
       "position": "Biotechnology Research Intern",
       "startDate": "2019/05",
       "endDate": "2019/07"
