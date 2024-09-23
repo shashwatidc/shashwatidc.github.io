@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CO<sub>2</sub>R costing dashboard
+title: CO2R costing dashboard
 permalink: /CO2R-dashboard/
 subtitle: 
 nav: false
