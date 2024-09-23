@@ -638,8 +638,8 @@ jsonresume:
   - experience
   - publications
   # - projects
-  - leadership
-  - awards
+  - selected leadership
+  - selected awards
   # - certificates
   # - skills
   # - languages

@@ -86,19 +86,34 @@
       "url": "https://doi.org/10.1016/j.cattod.2022.04.002"
       }
     ],
-  "leadership": [
+  "selected leadership": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "organization": "Longhorn Energy Club",
+      "position": "President",
+      "url": "https://www.longhornenergyclub.com/",
+      "startDate": "May 2024",
+      "endDate": "present"
+      },
+    {
+      "organization": "President's Sustainability Steering Committee",
+      "position": "Graduate Student Representative",
+      "startDate": "Sep 2023",
+      "endDate": "Aug 2024"
+      },
+    {
+      "organization": "Chemical Engineering Women",
+      "position": "Co-Chair",
+      "startDate": "Apr 2022",
+      "endDate": "Sep 2022"
+      },    {
+      "organization": "Graduate Chemical Engineering Leadership Council",
+      "position": "Enrichment Chair",
+      "startDate": "Sep 2021",
+      "endDate": "Sep 2022"
+      }
+  
   ],
-  "awards": [
+  "selected awards": [
     {
       "title": "Chevron Energy Graduate Fellowship",
       "date": "Jun 2024",
