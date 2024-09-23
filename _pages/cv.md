@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Brief CV
+title: CV
 nav: true
 nav_order: 2
 cv_pdf: 
@@ -10,6 +10,4 @@ toc:
   sidebar: left
 social: true # includes social icons at the bottom of the page
 ---
-Please contact me for a full resume: [shashwati.dacunha@austin.utexas.edu](mailto:shashwati.dacunha@austin.utexas.edu)
 
-PhD Candidate at The University of Texas at Austin | Process design, techno-economics and reactor design for electrochemical CO<sub>2</sub> utilization | Carbon utilization and renewable energy
