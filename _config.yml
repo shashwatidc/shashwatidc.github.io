@@ -634,11 +634,11 @@ jekyll_get_json:
 jsonresume:
   # - basics
   - education
-  - experience
   - research
-  # - publications
+  - experience
+  - publications
   # - projects
-  # - volunteer
+  - leadership
   - awards
   # - certificates
   # - skills
