@@ -4,7 +4,7 @@ permalink: /code/
 title: Code
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 social: true # includes social icons at the bottom of the page
 ---
 ## GitHub repositories

@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 social: true # includes social icons at the bottom of the page
 ---
 
