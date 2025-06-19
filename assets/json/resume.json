@@ -23,7 +23,7 @@
       "position": "Graduate Research Assistant",
       "startDate": "2021/10",
       "endDate": "present",
-      "summary": ["<ul> <li>Process design, techno-economics and reactor design for electrochemical CO<sub>2</sub> utilization</li> <li> Collaborations with optimization and transport theory groups, including through NSF-funded CISTAR Engineering Research Center</li> </ul>"]
+      // "summary": ["<ul> <li>Process design, techno-economics and reactor design for electrochemical CO<sub>2</sub> utilization</li> <li> Collaborations with optimization and transport theory groups, including through NSF-funded CISTAR Engineering Research Center</li> </ul>"]
     },
     {
       "name": "Medford Lab",
@@ -65,11 +65,17 @@
     }
   ],
   "publications": [
+    {"name": "Tracking Local pH Dynamics during Water Electrolysis via In-Line Continuous Flow Raman Spectroscopy",
+	  "url": "https://doi.org/10.1021/acsenergylett.5c00582",
+	  "releaseDate": "2025/04",
+	  "publisher": "<b>ACS Energy Letters</b>",
+	  "summary":  "Raul A. Marquez,  Jay T. Bender, <b>Shashwati C. da Cunha</b>, Ashton M. Aleman, Amaresh Sahu, Venkat Ganesan, Delia J. Milliron, Joaquin Resasco, Thomas F. Jaramillo and C. Buddie Mullins",
+      },
     {
       "name": "Insights from Techno-Economic Analysis Can Guide the Design of Low-Temperature CO₂ Electrolyzers towards Industrial Scaleup",
       "publisher": "<b>ACS Energy Letters</b>",
       "releaseDate": "2024/10",
-      "url": "https:///doi.org/10.1021/acsenergylett.4c02647",
+      "url": "https://doi.org/10.1021/acsenergylett.4c02647",
       "summary": "<b>Shashwati da Cunha</b> and Joaquin Resasco"
       },
     {
@@ -100,7 +106,7 @@
       "position": "President",
       "url": "https://www.longhornenergyclub.com/",
       "startDate": "2024/05",
-      "endDate": "present"
+      "endDate": "2025/05"
       },
     {
       "organization": "President's Sustainability Steering Committee",
