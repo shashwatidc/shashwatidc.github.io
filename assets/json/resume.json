@@ -22,8 +22,7 @@
       "location": "Atlanta, GA",
       "position": "Graduate Research Assistant",
       "startDate": "2021/10",
-      "endDate": "present",
-      // "summary": ["<ul> <li>Process design, techno-economics and reactor design for electrochemical CO<sub>2</sub> utilization</li> <li> Collaborations with optimization and transport theory groups, including through NSF-funded CISTAR Engineering Research Center</li> </ul>"]
+      "endDate": "present"   
     },
     {
       "name": "Medford Lab",
@@ -69,7 +68,7 @@
 	  "url": "https://doi.org/10.1021/acsenergylett.5c00582",
 	  "releaseDate": "2025/04",
 	  "publisher": "<b>ACS Energy Letters</b>",
-	  "summary":  "Raul A. Marquez,  Jay T. Bender, <b>Shashwati C. da Cunha</b>, Ashton M. Aleman, Amaresh Sahu, Venkat Ganesan, Delia J. Milliron, Joaquin Resasco, Thomas F. Jaramillo and C. Buddie Mullins",
+	  "summary":  "Raul A. Marquez,  Jay T. Bender, <b>Shashwati C. da Cunha</b>, Ashton M. Aleman, Amaresh Sahu, Venkat Ganesan, Delia J. Milliron, Joaquin Resasco, Thomas F. Jaramillo and C. Buddie Mullins"
       },
     {
       "name": "Insights from Techno-Economic Analysis Can Guide the Design of Low-Temperature CO₂ Electrolyzers towards Industrial Scaleup",
