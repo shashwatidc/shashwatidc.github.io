@@ -119,6 +119,8 @@ layout: default
   </div>
 {% endunless %}
 
+<hr>
+
 <!-- Social -->
 {% if page.social %}
   <div class="social"> 
@@ -130,3 +132,8 @@ layout: default
     <div class="contact-note">{{ site.contact_note }}</div>
   </div>
 {% endif %}
+
+{% if site.newsletter.enabled and site.footer_fixed %}
+  {% include scripts/newsletter.liquid center=true %}
+{% endif %}
+</article>
