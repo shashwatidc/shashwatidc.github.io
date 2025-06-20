@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-nav: true
-nav_order: 3
+nav: false
+nav_order: 
 social: true # includes social icons at the bottom of the page
 ---
 

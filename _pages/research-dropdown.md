@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Projects
+title: Research
 nav: true
-nav_order: 4
+nav_order: 3
 dropdown: true
-children:
+children:  
+  - title: Publications
+    permalink: /publications/
+  - title: divider
   - title: CO₂R costing dashboard
     permalink: /CO2R-dashboard/
   - title: divider
