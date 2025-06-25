@@ -64,6 +64,12 @@
     }
   ],
   "publications": [
+    {"name": "Techno-economic assessment of non-aqueous CO2 reduction",
+	  "url": "https://chemrxiv.org/engage/chemrxiv/article-details/685321a81a8f9bdab53703e2",
+	  "releaseDate": "2025/06",
+	  "publisher": "<b>ChemRxiv</b>",
+	  "summary":  "<b>Shashwati da Cunha</b> and Joaquin Resasco"
+      },
     {"name": "Tracking Local pH Dynamics during Water Electrolysis via In-Line Continuous Flow Raman Spectroscopy",
 	  "url": "https://doi.org/10.1021/acsenergylett.5c00582",
 	  "releaseDate": "2025/04",
