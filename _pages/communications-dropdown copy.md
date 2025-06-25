@@ -5,7 +5,7 @@ nav: true
 nav_order: 4
 dropdown: true
 children:  
-  - title: UT Energy Week 2025 interview
+  - title: UT Energy Week panel
     permalink: https://www.youtube.com/watch?app=desktop&v=gt0aJA0iP3c
   - title: divider
   - title: Culture Study interview
