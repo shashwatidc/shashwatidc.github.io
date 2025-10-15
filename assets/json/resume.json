@@ -25,10 +25,10 @@
   "research": [
     {
       "name": "Resasco Catalysis Lab",
-      "location": "Atlanta, GA",
+      "location": "Austin, TX",
       "position": "Graduate Research Assistant",
-      "startDate": "2021/10",
-      "endDate": "present"   
+      "startDate": "2021/08",
+      "endDate": "2025/12"   
     },
     {
       "name": "Medford Lab",
@@ -77,7 +77,7 @@
 	  "summary":  "<b>Shashwati da Cunha</b> and Joaquin Resasco"
       },
     {"name": "Tracking Local pH Dynamics during Water Electrolysis via In-Line Continuous Flow Raman Spectroscopy",
-	  "url": "https://doi.org/10.1021/acsenergylett.5c00582",
+	  "url": "https://pubs.acs.org/articlesonrequest/AOR-A9YGGIY3HD3FDNQI89QM",
 	  "releaseDate": "2025/04",
 	  "publisher": "<b>ACS Energy Letters</b>",
 	  "summary":  "Raul A. Marquez,  Jay T. Bender, <b>Shashwati C. da Cunha</b>, Ashton M. Aleman, Amaresh Sahu, Venkat Ganesan, Delia J. Milliron, Joaquin Resasco, Thomas F. Jaramillo and C. Buddie Mullins"
@@ -86,7 +86,7 @@
       "name": "Insights from Techno-Economic Analysis Can Guide the Design of Low-Temperature CO₂ Electrolyzers towards Industrial Scaleup",
       "publisher": "<b>ACS Energy Letters</b>",
       "releaseDate": "2024/10",
-      "url": "https://doi.org/10.1021/acsenergylett.4c02647",
+      "url": "https://pubs.acs.org/articlesonrequest/AOR-5BAAYUUQGDZBWJK7YPNC7",
       "summary": "<b>Shashwati da Cunha</b> and Joaquin Resasco"
       },
     {
