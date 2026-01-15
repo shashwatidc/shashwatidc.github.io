@@ -4,20 +4,21 @@
       "institution": "The University of Texas at Austin",
       "location": "Austin, TX",
       "url": "https://www.resascolab.com/",
-      "studyType": "PhD in Chemical Engineering",
-      "startDate": "2021",
-      "endDate": "present"
+      "studyType": "Ph.D. in Chemical Engineering",
+      "startDate": "2021/09",
+      "endDate": "2025/12"
     },    
     {
       "institution": "The University of Texas at Austin",
       "location": "Austin, TX",
-      "studyType": "MSE in Chemical Engineering",
-      "date": "2024"
+      "studyType": "M.S.E. in Chemical Engineering",
+      "startDate": "2021/09",
+      "endDate": "2024/12"
     },
     {
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
-      "studyType": "BS in Chemical and Biomolecular Engineering",
+      "studyType": "B.S. in Chemical and Biomolecular Engineering",
       "startDate": "2017",
       "endDate": "2021"
     }
@@ -138,6 +139,11 @@
       }
   ],
   "selected awards": [
+    {
+      "title": "OpenMinds NextGen Fellowship",
+      "date": "2025/08",
+      "awarder": "Chevron Corporation"
+      },  
     {
       "title": "Chevron Energy Graduate Fellowship",
       "date": "2024/06",
