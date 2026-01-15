@@ -16,11 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I design electrolyzers that convert CO<sub>2</sub> into useful chemicals. 
+Ph.D. in Chemical Engineering from the [Resasco Catalysis Lab](https://www.resascolab.com/) at The University of Texas at Austin. Focused on chemical process design and catalysis.
 
-PhD Candidate in the [Resasco Catalysis Lab](https://www.resascolab.com/) at The University of Texas at Austin.
-
-My <a href="{{ '/publications/' | relative_url }}">research</a> focuses on
+My doctoral <a href="{{ '/publications/' | relative_url }}">research</a> focused on
 - co-designing chemical processes and reactors to electrochemically convert CO<sub>2</sub> into chemical feedstocks
 - developing scaleup strategies by modeling electrolyzers within energy systems and integrated chemical processes
 - the intersection of energy infrastructure, the chemicals industry, and climate change

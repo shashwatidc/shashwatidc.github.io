@@ -10,6 +10,7 @@ children:
   - title: divider
   - title: Culture Study interview
     permalink: https://annehelen.substack.com/p/how-an-engineering-grad-student-organizes
+  - title: divider
   - title: ECS Student Chapter presentation
     permalink: https://youtu.be/fbWHOercShs?si=AklbqKAArmy61rt1
 ---
